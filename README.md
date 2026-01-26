@@ -1,0 +1,4 @@
+构型分支提供了在不同中心能量密度下，暗物质混合中子星的可能构型的mat与python代码。这其中包括两种物质的质量半径关系。test2添加了可通过工作台数据监视任意构型的密度剖面的功能。eos1与eos2分别是核物质以及暗物质的状态方程（两个txt文件），用户需要自己准备。eos的格式为第一列为中心能量密度，第二列为压强，从小至大排列。单位为MeV/fm^3
+
+
+The configuration branch provides the MAT and Python codes for the possible configurations of dark matter mixed neutron stars at different central energy densities. This includes the mass-radius relationship of the two substances. Test2 adds the function of monitoring the density profile of any configuration through the workbench data. EOS1 and EOS2 are the equations of state for nuclear matter and dark matter respectively (two txt files), which need to be prepared by the user. The format of EOS is that the first column is the central energy density and the second column is the pressure, arranged from small to large. The unit is MeV/fm^3.
